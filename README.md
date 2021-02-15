@@ -1,7 +1,4 @@
 # Design Systems in Indonesia
-Design System repo in Indonesia
-
-# Design Systems in Finland
 
 A curated list of Indonesia organizations _(or companies with large branches in Indonesia)_ that have or are actively working on a design system. Know a resource that isn't listed below? Feel free to [create a new pull request](https://github.com/daengdoang/design-systems-in-indonesia/compare), or [open an issue](https://github.com/viljamis/design-systems-in-indonesia/issues/new).
 
