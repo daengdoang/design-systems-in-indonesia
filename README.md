@@ -10,13 +10,13 @@ There isn’t a standard definition of “design system” within our community,
 
 | Name | Type | URL | Notes
 | --- | --- | --- | --- |
-| [Asphalt by Gojek](https://asphalt.gojek.io) | Public | https://asphalt.gojek.io | Drafted |
-| [Bazaar by Bukalapak](#) | Public | # | Drafted |
-| [FazzDesign by PayFazz](#) | Public | # | Drafted |
-| [FIAT by Dana](#) | Public | # | Drafted |
-| [Fortune by OY!Indonesia](#) | Public | # | Drafted |
-| [Momentum by Traveloka](https://traveloka.design) | Private | https://traveloka.design | Drafted |
+| [Asphalt by Gojek](https://asphalt.gojek.io) | Public | https://asphalt.gojek.io | Draft |
+| [Bazaar by Bukalapak](#) | Public | # | Draft |
+| [FazzDesign by PayFazz](https://design.fazzfinancial.com/) | Public | https://design.fazzfinancial.com/ | - |
+| [FIAT by Dana](#) | Public | # | Draft |
+| [Fortune by OY!Indonesia](#) | Public | # | Draft |
+| [Momentum by Traveloka](https://traveloka.design) | Private | https://traveloka.design | Draft |
 | [Ravier by OVO](https://ravier.ovo.id) | Public | https://ravier.ovo.id | Drafted |
-| [Tedis by Telkom Indonesia](https://tedis.telkom.design/) | Public | https://tedis.telkom.design/ | Done |
-| [Unify by Tokopedia](#) | Public | # | Drafted |
+| [Tedis by Telkom Indonesia](https://tedis.telkom.design/) | Public | https://tedis.telkom.design/ | - |
+| [Unify by Tokopedia](#) | Public | # | Draft |
 
