@@ -16,6 +16,7 @@ There isn’t a standard definition of “design system” within our community,
 | [FIAT by Dana](#) | Public | # | Draft |
 | [Fortune by OY!Indonesia](#) | Public | # | Draft |
 | [Momentum by Traveloka](https://traveloka.design) | Private | https://traveloka.design | Draft |
+| [Pakket by Lion Parcel](https://lionparcel.design/) | Pubclic | https://lionparcel.design/ | Released |
 | [Ravier by OVO](https://ravier.ovo.id) | Public | https://ravier.ovo.id | Drafted |
 | [Tedis by Telkom Indonesia](https://tedis.telkom.design/) | Public | https://tedis.telkom.design/ | - |
 | [Unify by Tokopedia](#) | Public | # | Draft |
